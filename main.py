@@ -1,9 +1,7 @@
+import sys
 import Dictionaries.dicts as dicts
 import Lists.lists as lists
-import sys
 
-sys.path.append('Lists')
-sys.path.append('Dictionaries')
 
 def main():
     print("Choose a topic:")
